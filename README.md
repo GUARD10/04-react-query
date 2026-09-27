@@ -114,7 +114,7 @@ public/
 ### Installation
 
 ```bash
-git clone git@github.com:deluminor/03-react-movies.git
+git clone git@github.com:GUARD10/03-react-movies.git
 cd 03-react-movies
 npm install
 ```
@@ -169,7 +169,7 @@ npm run preview
 
 Deploy on [Vercel](https://vercel.com):
 
-1. Import `deluminor/03-react-movies`
+1. Import `GUARD10/03-react-movies`
 2. Framework preset: **Vite**
 3. Add environment variable `VITE_TMDB_TOKEN`
 4. Deploy — Vite defaults (`npm run build`, output `dist`)
